@@ -5,7 +5,7 @@ Key Features:
 ----> Improved Sound Quality: Enjoy richer, more immersive audio with enhanced clarity and depth.
 ----> Enhanced Voice Clarity: Clearer and more distinct voice reproduction for seamless communication.
 ----> Optimized Performance: Streamlined to deliver consistent performance across different environments.
-
+\n
 Installation:
 1 ----> Download the RAR File.
 2 ----> Extract it.
